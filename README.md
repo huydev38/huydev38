@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huydev38
 - 👀 I’m interested in learning code, music, travel
-- 🌱 I’m currently learning Python, SQL, Java, HTML/CSS
+- 🌱 I’m currently learning Python, SQL, Java, HTML/CSS, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me huynguyenquang030803@gmail.com
 
